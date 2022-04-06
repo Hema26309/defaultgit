@@ -3,4 +3,12 @@
   <groupId>org.magnitia</groupId>
   <artifactId>org.magnitia.hemagit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+   <dependencies>
+  <dependency>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>4.4.0</version>
+    <scope>test</scope>
+</dependency>
+  </dependencies>
 </project>
